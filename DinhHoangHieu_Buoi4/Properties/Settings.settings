@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DinhHoangHieu_Buoi4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=A103PC38;Initial Catalog=QL_NguoiDung;User ID=sa;Password=sa2012</Value>
+    </Setting>
+    <Setting Name="_Conn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=A103PC38;Initial Catalog=Module_DN;User ID=sa;Password=sa2012</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

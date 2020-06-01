@@ -1,0 +1,14 @@
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\bin\Debug\DinhHoangHieu_Buoi4.exe.config
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\bin\Debug\DinhHoangHieu_Buoi4.exe
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\bin\Debug\DinhHoangHieu_Buoi4.pdb
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.Form1.resources
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.frmMain.resources
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.exe
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.pdb
+E:\LuuDuLieuSinhVien\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.frmUpdate.resources
+D:\FileRar\Extract\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\bin\Debug\DinhHoangHieu_Buoi4.exe.config
+D:\FileRar\Extract\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.exe
+D:\FileRar\Extract\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\DinhHoangHieu_Buoi4\obj\Debug\DinhHoangHieu_Buoi4.pdb
